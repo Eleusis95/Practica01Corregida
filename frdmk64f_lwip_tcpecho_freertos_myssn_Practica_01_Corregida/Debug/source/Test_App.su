@@ -1,0 +1,4 @@
+fsl_gpio.h:175:20:GPIO_PortSet	16	static
+fsl_gpio.h:186:20:GPIO_PortClear	16	static
+Test_App.c:11:6:Test_App	16	static
+Test_App.c:42:6:Echo	8	static
